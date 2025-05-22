@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -103,10 +103,12 @@ endmodule
 
 
 **RTL**
+
 ![Screenshot 2025-03-20 104027](https://github.com/user-attachments/assets/199acdfa-b910-4845-8f60-b9e8a6cf200e)
 
 
 **Result:**
+
 Thus the program is verified and executed successfully.
 
 
